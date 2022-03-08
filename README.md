@@ -21,7 +21,7 @@ TODO:
   - metadata:
     - bond_teller_address: the address of the teller contract that was added or removed
     - bond_depository_address: the address of the BondDepository contract
-    - action: `added` or `removed`
+    - action: `TellerAdded` or `TellerRemoved`
 
 ## Test Data
 
